@@ -1,0 +1,178 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Relation of the birth, as well as of several remarkable passages during the minority of the victorious James, Duke of Monmouth, eldest son to His Majesty of Great Britain, France, and Ireland with the true account of his many signal and heroick victories in Holland, Flanders, and Scotland to his immortal fame : with the manner of his departure from Whitehall and of his joyful reception in Holland.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58435</idno>
+            <idno type="STC">Wing R816</idno>
+            <idno type="STC">ESTC R28099</idno>
+            <idno type="EEBO-CITATION">10409688</idno>
+            <idno type="OCLC">ocm 10409688</idno>
+            <idno type="VID">44959</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58435)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 44959)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1389:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Relation of the birth, as well as of several remarkable passages during the minority of the victorious James, Duke of Monmouth, eldest son to His Majesty of Great Britain, France, and Ireland with the true account of his many signal and heroick victories in Holland, Flanders, and Scotland to his immortal fame : with the manner of his departure from Whitehall and of his joyful reception in Holland.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[Edinburgh? :</pubPlace>
+                  <date>1679.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: print show-through.</note>
+                  <note>Defective Huntington Library copy spliced at end.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Monmouth, James Scott, --  Duke of, 1649-1685.</term>
+               <term>Great Britain --  History --  1660-1714 --  Biography.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:44959:1"/>
+            <pb n="1" facs="tcp:44959:1" rendition="simple:additions"/>
+            <head>A RELATION OF The Birth, as well as of ſeveral Remarkable Paſ<g ref="char:EOLhyphen"/>ſages during the Minority of the Victorious JAMES Duke of Monmouth, Eldeſt Son to his <hi>MAJESTY</hi> of great <hi>Britain, France</hi> and <hi>Ireland,</hi> with the true Account of his many ſignal and heroick Victories in <hi>Holland, Flanders</hi> and <hi>Scotland</hi> to his Immortal Fame: With the manner of his Departure from <hi>White<g ref="char:EOLhyphen"/>hall,</hi> and of his joyful Reception in <hi>Holland. Hony ſoit qui Mal y pence.</hi>
+            </head>
+            <p>JAMES Duke of <hi>Monmouth,</hi> Born During the time of his Royal Fathers (and our dread Soveraigns) moſt unjuſt exilement by thoſe monſtrous bloudy Tyrants that uſurped a Juriſdiction over his undoubted Right, thoſe Fiends compa<g ref="char:EOLhyphen"/>cted in the ſhapes of Men, firſt brooded in the lower Hell, and like <hi>Pandoras</hi> box ſent thence to plague the World, and fill it with unwholſome Ills; therefore it may be ſaid of his Grace in part, as it was of <hi>Anibal</hi> that <hi>Carthagenian</hi> Prince and Maſter<g ref="char:EOLhyphen"/>piece of War, though not born in a Winter-Camp where Drums and Trumpets charm the Globe, yet born in Tumults and bred up to great Exploits, for no ſooner had he paſſed his tender Years, but thirſt of Military Glory ſpurr'd him on to baffle danger, and contemn thoſe panick fears, that like to Mill-ſtones clog the Soul, and with too much groſsneſs and humidity keep her from ſoaring to her proper ſphear, quenching thoſe heroick fires that otherways would blaze bright, and curle among the Clouds or born on the Wings of Fame, illuminate the Nations
+<pb n="2" facs="tcp:44959:2" rendition="simple:additions"/>
+round about, and make pale envy Groan that his Grace was ſomewhat extravagant in his Minority we needs muſt own, play<g ref="char:EOLhyphen"/>ing many wild freaks, not without hazarding his Perſon, yet this he might be over-perſwaded to comply with by ſome far reaching Politician, who foreſaw to what a height his Vertues would aſpire, and in envy unto which might ſeek this way to nip them in their early bloom, the like preſident we have in <hi>Henery</hi> of <hi>Monmouth,</hi> or <hi>England</hi>'s Fifth <hi>Henery,</hi> that heroick Prince whoſe name and worth yet haughty <hi>France</hi> may know there writ deep in characters of blood his prodigious Victories declare themſelves by a total Conqueſt annexing that Crown to ours, the poſſeſſion of which was after loſt by his unhappy Son King <hi>Henery</hi> the ſixth, but to return to his Graces more Manly reſolution, ſoon gained the ſuperiority over thoſe frail<g ref="char:EOLhyphen"/>ties, and ſent ſuch Chimera's to wander with their mother-clouds addicting himſelf to actions worthy his high Birth, Arms and the God of Battel raged in his breaſt, and then began his Fortunes to appear, for we not having any Hoſtilities in theſe his moſt Sacred Maieſties Dominions: But bleſſed with the hap<g ref="char:EOLhyphen"/>py accents of a flouriſhing Peace, the greateſt comfort next the Goſpels freedom that a Kinſtdom can enjoy: but on the contra<g ref="char:EOLhyphen"/>ry our neighbouring Nation then groaning under the heavy op<g ref="char:EOLhyphen"/>preſſions of Sword and Fire, whereupon in order to his Royal Fathers will (whom God grant long to reign over us, and make his days as the days of Heaven) he croſſed the raging Bellows, leading an Army in favour of the <hi>French,</hi> (though moſt un<g ref="char:EOLhyphen"/>worthy of his ſervice) who were then ingaged in War againſt the <hi>Dutch</hi> our Proteſtant Neighbours, where being arrived, al<g ref="char:EOLhyphen"/>though but Green and unexperience as to the practick never be<g ref="char:EOLhyphen"/>fore having charged an Enemy, yet with the <hi>Engliſh</hi> Parties un<g ref="char:EOLhyphen"/>der his Command he performed ſuch wonderful Exploits that many politick Monſieurs that had been trained up in War for many Years, ſtood amazed at ſo brave a reſolution, and ſo cou<g ref="char:EOLhyphen"/>ragiouſly he behaved himſelf for the honour of his Country and the true old <hi>Engliſh</hi> valour, that many of the <hi>French</hi> Nobility began to envy what they durſt not imitate, a common Maxime amongſt great Ones, for at the ſeveral Sieges during his Com<g ref="char:EOLhyphen"/>miſſion, there he was for the moſt part put upon the dangerouſ<g ref="char:EOLhyphen"/>eſt Exploits which always contributed to his honour, though perhaps by ſome intended to a different purpoſe, for ſuch was his courage and reſolution, that though he was ſent out with Parties much inferiour to the Enemy in number, yet he charged
+<pb n="3" facs="tcp:44959:2"/>
+with ſuch Gallantry that the Sallyers were beaten back, nor able to abide ſuch force being often perſued by him even to their Lines and Trenches, when the Beſeigeds Cannon played moſt fu<g ref="char:EOLhyphen"/>riouſly, in their defence, and ſhot like Haile ſung round his War<g ref="char:EOLhyphen"/>like Head, who can forget that brave Exploit performed by him at Seige of <hi>Mastrech,</hi> a Seige that got to be ſo Famous at the loſs of many Thouſand lives, the <hi>French</hi> Army having laine before it and ſuch an Army that was Compoſed of all the Flower of that Kingdom for ſeveral Months their King in perſon, Animating them at ſeveral Viſits that he made, but yet not daring to at<g ref="char:EOLhyphen"/>tempt any thing of Moment, the <hi>Counter-ſcarp, Ram-parts, Basti<g ref="char:EOLhyphen"/>on,</hi> half <hi>Moons,</hi> and <hi>Pallasadoes,</hi> being ſo Advantageouſly made Guarding every Paſs, with ſuch Vaſt Quantities of well Moun<g ref="char:EOLhyphen"/>ted Cannons, the which continually playing beat the <hi>French-men,</hi> daily from their works; ſlaughtering them in Numbers upon every hand, ſo that many began to diſpair of better ſucceſs, and that it would be impoſſible for them ever to become Maſters of the Peace, and 'tis thought they would have raiſed the Seige without Atcheive any thing worthy of Noat, had not his Grace with his, by that time well ſeaſoned <hi>Engliſh Souldiers,</hi> backed them on, and in the Height of courage and cavalry, boldly lead the Van, as if Inuulnerable he could unconcerned ſmile at Death and brave the frowns of Fate, for few or none Expected, he could have eſcaped a ſo Gallant and ſo daring an attempt (but <hi>Caeſars</hi> Fortunes, Favour <hi>Caeſars</hi> Son) preparing for the aſault no ſooner had he drawn his Souldiers up and come within dan<g ref="char:EOLhyphen"/>ger of the Mines, but the Beſeigers ſprung all though with In<g ref="char:EOLhyphen"/>conſiderable Execution, yet notwithſtanding this might much a diſheartened them in their proceedings, but Animated by his Gra<g ref="char:EOLhyphen"/>ces Example and Courage, they cryed lead and furiouſly preſ<g ref="char:EOLhyphen"/>ſed on here we may aply to his Grace that Sentence of the War<g ref="char:EOLhyphen"/>like <hi>Trajan Prince,</hi> when in the like danger <hi>(Tucer ducet Auspice Tucro)</hi> for although the great half <hi>Moon</hi> was defended with two <hi>Bastions,</hi> a wing or Flancker of ſmall ſhot from the <hi>Palaſadoes,</hi> and ſeveral Thouſands, in the work it ſelf being recruted with freſh Souldiers from the Town, yet ſo far was his Grace from being diſencouraged, that he charged them in their, lines and came to Puſh of Pike; leaping over the Works and Trenches in his proper Perſon, whoſe Example his Souldiers Imitating, he ſtill perſued the Enemy in their retreat; beating them from one work to another, till at laſt he had obliged them to quit the main attacking them in their redoubts, bravely defending what
+<pb n="4" facs="tcp:44959:3"/>
+he had gained, although the Enemy twice Sallyed in the Action whilſt the <hi>Mounſiers</hi> ſtood gazing at a diſtance, not daring to aproach till he had woon the works; and conſequently by his ſecuring them, obliged the Town to a ſurrend, the which in few daies (with as little loſs as can be Imagined, in ſo Perilous an Enterprize) was effected, yet inſtead of a reward and an eter<g ref="char:EOLhyphen"/>nal wreath of lawrel, for ſo great a piece of ſervice done ingra<g ref="char:EOLhyphen"/>teful <hi>France,</hi> unworthy ſuch a Souldiers Armes aſperſed his Can<g ref="char:EOLhyphen"/>dior and diſerving Fame, with many Baſe Indignities; as enving him the Glory of that Enterprize, his conquering Sword had won <hi>(Sed Creſſit ſub pondere Victus)</hi> nor can their malice ſhroud his high deſerts. <hi>Fames Brazen Trump;</hi> Placed in her lofty Towre, will ſound the worthyes Praiſe, and Vertue is a Monu<g ref="char:EOLhyphen"/>ment more laſting then the <hi>Moſulie</hi> and higher then all the <hi>Py<g ref="char:EOLhyphen"/>ramids</hi> the <hi>Architect</hi> of Man can frame 'tis that which devouring, time has not the power to waiſt.</p>
+            <p>After this ſingular piece of ſervice, the greateſt advantage that the <hi>French</hi> has obtained over the <hi>Dutch,</hi> before or ſince; his Grace ſeeing his warlike endeavours prized at no higher a Rate, diſerted their party, and retireing himſelf, yet long could not be content with the pleaſures of this bounteous Iſle, nor the ſollace of his Royal Fathers Court, his active Soul diſdaining ſloathful Eaſe, Fame ſtill egging him on to great deſignes, he once again re<g ref="char:EOLhyphen"/>ſolves to Court her in the field, and try his Fortune in ſome brave Exploit. <hi>Flanders</hi> then being almoſt ſubdued by the power of <hi>France,</hi> and in great danger to be totaly loſt, the Duke of <hi>Lux<g ref="char:EOLhyphen"/>emburg,</hi> lying incamped in the Heart of that province with a power<g ref="char:EOLhyphen"/>ful Army of, between 30 and 40 Thouſand Horſe and Foot, men diſciplined from the beginning of the War, the which till his approach, the <hi>Germans, Dutch,</hi> nor <hi>Spaniards,</hi> durſt not Face; but his bold Encouragement gave them New Life; as if great <hi>Mars</hi> himſelf had then defended from his bloody Throne, and ra<g ref="char:EOLhyphen"/>ged through all their Camp, each Souldiers Eyes ſhot Death; and cryed lead on, lets preſently engage; whereupon his High<g ref="char:EOLhyphen"/>neſs the Prince of <hi>Orange</hi> taking hold of the oportunity, advanced with his main body, reſolving to attacque them, the diſadvan<g ref="char:EOLhyphen"/>tage was very great, for the <hi>French</hi> being Encamped upon the moſt Comodious Ground in ſtrong alodging between St. <hi>Denis</hi> and <hi>Mons</hi> backed with Woods and Flanck'd, with Lanes almoſt unpaſſible, the diſproportion being ſo great that when the Duke of <hi>Luxemburg</hi> firſt ſaw the Princes Army begin to Move, he ut<g ref="char:EOLhyphen"/>tered theſe Expreſſions to ſeveral of his chief Commanders, then
+<pb n="5" facs="tcp:44959:3"/>
+aſſembled to receive farther orders, <hi>(viz.)</hi> ſurely theſe raſh Boys will not dare to attempt any thing upon us in our Lodgings <hi>&amp;c.</hi> But the anſwer was a Thundering charge, and Deaths He<g ref="char:EOLhyphen"/>rangues Sounding loud on every ſide, for his Grace with the <hi>En<g ref="char:EOLhyphen"/>gliſh,</hi> Regiments charged the Enemy on the Right, with ſuch fury that at the firſt Brunt he overſet them diſordering their Horſe and putting them into Confuſion that they fled far; and near whilſt he perſued them even to their Camp, ſlaughtering them through defile or duety Lanes, the which were a moſt Impoſſible as likewiſe my Lord of <hi>Oſſery</hi> behaved himſelf with much Gallan<g ref="char:EOLhyphen"/>try after his Grace had beaten their Right, he turned upon the Left, and charged the Dragoons who lay Flanckers with ſuch an undanted reſolution and bravery, that notwithſtanding their utmoſt reſiſtance, and many ſuccors ſent to their releif, ſeveral Thouſands were left upon the place, whilſt the dredful in Armes Rod through the Squadorns and Buttalions giving neceſary or<g ref="char:EOLhyphen"/>ders, and for the moſt part where the ſhot flew thickeſt, by which meanes he gave the <hi>Germaines, Dutch</hi> and <hi>Spaniards,</hi> to force and diſorder the Enemies main Body, and oblige them to re<g ref="char:EOLhyphen"/>treat with the loſs of about 8 Thouſand men and the next day to quit their Camp. And ſilently depart, cle<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing great quan<g ref="char:EOLhyphen"/>teties of their bagage behind them, this was the firſt V ctory that Holland e're could boaſt, during that ſo tedious War, and doubt<g ref="char:EOLhyphen"/>leſs had not gained this, had not his Grace ſo bravely managed the affairs, where <hi>Caeſar</hi> is there <hi>Caeſars</hi> Fortunes will attend, that which Hiſtory afirms of <hi>Henry</hi> the Fift, of <hi>Monmouth</hi> may here be worthy, our obſervation where 'tis related that he never fought but ſtill remained Victorious, and that in his many Battels during his War with the King and <hi>Dauphen</hi> of <hi>France,</hi> for the poſſeſ<g ref="char:EOLhyphen"/>ſion of that Crown and Kingdom, 'tis noted as a wonder the chance of War never turned againſt his Army, if that he was there in perſon.</p>
+            <p>As likewiſe <hi>Scotland,</hi> can amply witneſs, <hi>Monmouths</hi> brave re<g ref="char:EOLhyphen"/>nown, thoſe daring factious <hi>Scots,</hi> that durſt Rebel againſt their Soveraign Lord, and take up Armes to ſpoil a peaceful Land, whoſe unexpected Murders, Rapines, and fierce violence began to rage in Cities Fields and Walled Townes, ſlautering our for<g ref="char:EOLhyphen"/>ces that were ſet for the ſecuring of the peace and quiet of the Realm, with Inſolencies ſcarce e're known before, but when brave <hi>Monmouth</hi> Winged with War, firſt ſet his Foot on that Re<g ref="char:EOLhyphen"/>bellious ſoile to Curb their daring Arrogancies, an auful dread ſeaſed on thoſe trembling ſlaves, as if ſome mighty Earthquake
+<pb n="6" facs="tcp:44959:4" rendition="simple:additions"/>
+had unhinged the Word, and Nature did begin to ſink, their lof<g ref="char:EOLhyphen"/>ty Spirits failed and they became ſo ſtupified, that fear had con<g ref="char:EOLhyphen"/>quered e're his Sword came on, for they being about 40 or 50 Thouſand in Number, Guarded with a river in the Front, and <hi>Hambleton-Park,</hi> on the Rear, with all the advantage of Ground Imaginable, yet notwithſtanding, the great Soul'd Duke, after their deſiring a Parle for ſome time, and his generous promiſes to do his beſt in their behalf, to perſwade his Majeſty to milde Terms, if they would lay down their Armes, and yield upon diſ<g ref="char:EOLhyphen"/>creſion, but they firſt bogling and at laſt refuſing, he comman<g ref="char:EOLhyphen"/>ded to ſound the charge, charging the defenders of the Bridge (then which was a ſtrong party, ſent down from the Rebells Camp) on the Right, with ſuch fury and battering their order, with ſome Pieces of Cannon from the Left; that in leſs then an Hours ſpace, he forced them to retire to their main Body; which was advancing from the Hills, whereupon the Bridge being left undefended, his Grace with the greateſt part of his Army (the which was much inferior to the Rebells in Number) paſſed over and charged their Right Wing of Horſe, who had advanced and ranged themſelves to receive the firſt Front, but ſtood not long to it, for the Kings forces turning upon them they were ſoon bro<g ref="char:EOLhyphen"/>ken, nor ſtood they the firſt ſhock but wheeling of in much diſ<g ref="char:EOLhyphen"/>order, finding no place of retirement by Reaſon of their Hot perſute, ruſhed through the Ranks of their own Body of Foot; who had not been as then Ingaged, ſo diſordering them, paſſed on and left the Field, not once ſo much as ralying; in a ſhort ſpace after his Grace ſent to charge the remainder of the Rebells that had Ranked themſelves again, and ſtood Intire and commanded a party of Musquetiers to full the hollow Ground, and ſerve as Flanckers to the Left, the Rebells Foot viewing this well diſipli<g ref="char:EOLhyphen"/>ned order, and not ſeeing their Horſe to appear, ſtanding only 2 or 3 Volleys of ſhot, and the Duke no ſooner preſſing them on the Right, but all in confuſion, they fled, and throwing a<g ref="char:EOLhyphen"/>way their Armes and bagage, every one ſhifted for himſelf, moſt of them abſconding in <hi>Hambleton-park</hi> thus in leſs then a full day was by his Graces Courage and conduct, was this great Rebel<g ref="char:EOLhyphen"/>lion de<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſſipated, and in few daies after quite Extinguiſhed, the which many wiſe Politicians did adjudg to have gotten to that hight, that it was too great to Quell eſpecialy with ſo ſmall a force, as his Grace then lead not being above Eleven thouſand and moſt of them the unexperienced <hi>Millitia</hi> of the <hi>Country, &amp;c.</hi> ſuch a Souldier in a Nation, is like watch <hi>Tower,</hi> or a <hi>Bulwark,</hi>
+               <pb n="7" facs="tcp:44959:4" rendition="simple:additions"/>
+of defence, to Guard it from its during Foes, <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Pillar to ſupport the ſacred Throne, and Guard it with his Loyal Sword, from all the ſubtil contrivings and Infernal Counſels, that the <hi>Roman</hi> Tyrant can deviſe, for ſuch a ones Well-fare next their Soveraign Lords, all good Proteſtants are bound to pray.</p>
+            <p>'Tis much to be obſerved (that after his Grace had ſollemnly taken leave of the Court, and in obedience to his Royal Fathers pleaſure, Entered one of the two Barges, that attended at the back Stairs of the Pallace of <hi>White-Hall,</hi> in order to his depar<g ref="char:EOLhyphen"/>ture, the which was on <hi>Thurſday,</hi> the 25 of <hi>September.</hi> 79. <hi>&amp;c.</hi> what a general ſilence and Conſternation ſeaſed on the willing Crouds, that Vieued his paſſage down the River, ſo eager and ſteadfaſt were their Eyes fixed on him, as if they would have gazed away their Souls, and ſent them to have borne him Company not having power to remove them till the happy Object was be<g ref="char:EOLhyphen"/>yond their Proſpects; uttering many dear Expreſſions of ſorrow every one varying in their Opinions, with ſighs and flowing Brine as if they would have made the Tide ſwel greater then it was Men Women and Children; flocking from all parts adjacent to take their farwell of the Noble Duke, whom the half of them ne'r ſaw, yet had they heard of him by Fame, and his Heroick Virtues, were too bright for envy to lay ſilent in the duſt, where Conquering Lawrels Floriſh Green; their Branches ſpread both far and wide, Braveneſs of Spirit, is the Vertue which adornes a Prince, that made diſputes ſo aften ariſe, whether the mighty <hi>Caeſar</hi> in his conqueſt of the World; won more by clemency, or by his Sword, this doubtleſs made the Duke ſo much beloved and made the Nation more concerned for him, then he was for himſelf, and may the ſame a ſpeedy Motive be to reconcile him to his Royal Fathers and our gracious Soveraignes boſom, as at firſt, the which paſt doubt, is the wiſh of all the Loyally affect<g ref="char:EOLhyphen"/>ed, that Tread on the <hi>Britiſh</hi> ſoil, and his Grace having with a faire, wind paſſed the Seas, arrived ſafe on the 28th in <hi>Holland</hi> where he was received according to his <hi>Carrecter,</hi> with all the civil entertainment Imaginable, not only at <hi>
+                  <g ref="char:V">Ʋ</g>treich,</hi> but at moſt of the places, through which he paſſed, making ſome ſtay at ſe<g ref="char:EOLhyphen"/>veral places, it is ſaid, he was congratulated by many of the <hi>Dutch</hi> Nobility, with great reſpect, and farther that his Grace is deſign<g ref="char:EOLhyphen"/>ed to paſs on, to <hi>Hamburrough,</hi> a free City of the high <hi>Dutch,</hi> which City the King of <hi>Denmark,</hi> and Elector of <hi>Brandenburg,</hi> are coming down to beſiege; and already have begun to Block it up, part of the <hi>Danes</hi> forces lying in the <hi>Elbe, &amp;c.</hi> his Graces
+<pb n="8" facs="tcp:44959:5"/>
+preſence may be ſure of much Importance, and that through the Mercies of a never faling God, we may again behold the Royal Father ſmiling on his Son with joy, when he ſhall ſee him Laden in freſh Victories; and <hi>Caeſars</hi> Fortune, I wait on him in all his brave attempts.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:44959:5"/>
+            <pb n="1" facs="tcp:44959:6"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="2" facs="tcp:44959:7"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="3" facs="tcp:44959:7"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="4" facs="tcp:44959:8"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="5" facs="tcp:44959:8"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="6" facs="tcp:44959:9"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="7" facs="tcp:44959:9"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="8" facs="tcp:44959:9"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </body>
+   </text>
+</TEI>
